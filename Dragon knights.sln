@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon knights", "Dragon knights.csproj", "{C11F5B75-732A-FD21-FA3A-72D7E6D9217E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon knights.Editor", "Dragon knights.Editor.csproj", "{89799029-8504-91DE-7793-F2CDC0D386DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11F5B75-732A-FD21-FA3A-72D7E6D9217E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11F5B75-732A-FD21-FA3A-72D7E6D9217E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11F5B75-732A-FD21-FA3A-72D7E6D9217E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11F5B75-732A-FD21-FA3A-72D7E6D9217E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89799029-8504-91DE-7793-F2CDC0D386DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89799029-8504-91DE-7793-F2CDC0D386DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89799029-8504-91DE-7793-F2CDC0D386DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89799029-8504-91DE-7793-F2CDC0D386DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

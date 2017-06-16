@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c6fcda587be2cbf46b94ca99ba67e1ff
+timeCreated: 1493259759
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super Mario World
+  fontNames:
+  - Super Mario World
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

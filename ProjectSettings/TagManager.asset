@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PicaVoxelVolume
+  - Enemy
+  - EnemyParent
+  - Water
+  - Road
+  - Grass
+  - Log
+  - LogParent
+  - Lilypad
+  - HighSpeed
+  - HighSpeedParent
+  - Coin
+  - CoinParent
+  - Holder
+  - Train
+  - Log1
+  - Log2
+  - Object
+  - ObjectParent
+  - Character
+  - Car
+  - Map1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Passive
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2663125977
+    locked: 0
+  - name: 2
+    uniqueID: 1306982087
+    locked: 0
